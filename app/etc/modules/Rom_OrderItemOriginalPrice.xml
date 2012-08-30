@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Rom_OrderItemOriginalPrice>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Rom_OrderItemOriginalPrice>
+    </modules>
+</config>
